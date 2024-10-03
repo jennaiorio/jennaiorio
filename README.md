@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm currently working on my GitHub skills by building a HangMan game. I am also practicing my Object Oriented Programming skills.
+
 <!--
 **jennaiorio/jennaiorio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
